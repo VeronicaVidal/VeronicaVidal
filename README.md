@@ -1,8 +1,12 @@
 <!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
 
 <!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Alwin.svg)--->
+<br>
 
-<!--- GitHub --->
+![](under-construction.gif)
+
+<br>
+
 <p align="center">
     <a href="https://github.com/VeronicaVidal" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@VeronicaVidal-181717?style=flat-square&logo=GitHub&logoColor=white"></a> <!--- GitHub --->
     <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a> <!--- LinkedIn --->
