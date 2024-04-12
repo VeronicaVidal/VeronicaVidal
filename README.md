@@ -2,7 +2,9 @@
 
 
 <p align="center">
-  ![Earth](https://media.giphy.com/media/DuJmk1yRUd1Di/giphy.gif?cid=ecf05e47ca1kxcf6e2r0hv3t6nz62xe5pc9bk2gsju7g08gx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+  
+   ![Earth](https://media.giphy.com/media/DuJmk1yRUd1Di/giphy.gif?cid=ecf05e47ca1kxcf6e2r0hv3t6nz62xe5pc9bk2gsju7g08gx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 </p>
 
 <!--- INTRO HELLO --->
