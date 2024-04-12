@@ -1,5 +1,8 @@
+<h1 align="center"> 
+    
+![Clouds](Veronica_Vidal.mp4)
 
-![](Veronica_Vidal.mp4)
+</h1>
 
 
 <!--- INTRO HELLO --->
