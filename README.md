@@ -1,6 +1,6 @@
 <h1 align="center"> 
     
-![Clouds](VeronicaVidal.mp4)
+![Clouds](VeronicaVidal.gif)
 
 </h1>
 
