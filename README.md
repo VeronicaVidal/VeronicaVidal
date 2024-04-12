@@ -1,4 +1,4 @@
-<!---![](https://www.canva.com/design/DAGCNRtUxOk/QbtM-XzyBECQat7vCCl5SQ/edit?utm_content=DAGCNRtUxOk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)--->
+![](Veronica Vidal.mp4)
 
 
 <!--- INTRO HELLO --->
