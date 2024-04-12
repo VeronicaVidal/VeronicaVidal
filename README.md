@@ -1,8 +1,4 @@
-<!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
-
-  
-   
-<h1 align="center"> ![Earth](https://media.giphy.com/media/DuJmk1yRUd1Di/giphy.gif?cid=ecf05e47ca1kxcf6e2r0hv3t6nz62xe5pc9bk2gsju7g08gx&ep=v1_gifs_search&rid=giphy.gif&ct=g) </h1>
+<!---![](https://www.canva.com/design/DAGCNRtUxOk/QbtM-XzyBECQat7vCCl5SQ/edit?utm_content=DAGCNRtUxOk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)--->
 
 
 <!--- INTRO HELLO --->
