@@ -13,7 +13,7 @@
     <a href="https://www.researchgate.net/profile/Veronica-Vidal-2" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a> <!--- ResearchGate --->
     <a href="https://orcid.org/0000-0002-5235-0112" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a> <!--- ORCID --->
     <a href="https://stackoverflow.com/users/11480791/VVidal" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a> <!--- Stackoverflow --->
-    <a href="https://stackexchange.com/users/4446338/alwin" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
+    <a href="https://stackexchange.com/users/11480791/VVidal" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
 </p> <!--- StackExchange --->
 
 <!--- GitHub Repositoris 
