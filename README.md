@@ -1,9 +1,8 @@
 <!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
 
-![Earth](https://media.giphy.com/media/DuJmk1yRUd1Di/giphy.gif?cid=ecf05e47ca1kxcf6e2r0hv3t6nz62xe5pc9bk2gsju7g08gx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 <p align="center">
-  <img src="under-construction.gif" alt="animated" />
+  ![Earth](https://media.giphy.com/media/DuJmk1yRUd1Di/giphy.gif?cid=ecf05e47ca1kxcf6e2r0hv3t6nz62xe5pc9bk2gsju7g08gx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 </p>
 
 <!--- INTRO HELLO --->
