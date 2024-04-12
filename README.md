@@ -1,4 +1,4 @@
-![](Veronica Vidal.mp4)
+![](Veronica_Vidal.mp4)
 
 
 <!--- INTRO HELLO --->
