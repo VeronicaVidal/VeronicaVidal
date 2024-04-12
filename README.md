@@ -1,10 +1,9 @@
 <!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
 
 <!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Alwin.svg)--->
-<p align="center"> 
-    <br> 
-        ![](under-construction.gif) 
-    <br>
+<p align="center">
+  <img src="under-construction.gif" alt="animated" />
+</p>
 
 <!--- INTRO HELLO --->
 <h1 align="center"> Hi 👋, I'm Verònica Vidal</h1>
