@@ -1,11 +1,9 @@
 <!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
 
-
-<p align="center">
   
-   ![Earth](https://media.giphy.com/media/DuJmk1yRUd1Di/giphy.gif?cid=ecf05e47ca1kxcf6e2r0hv3t6nz62xe5pc9bk2gsju7g08gx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+   
+<h1 align="center"> ![Earth](https://media.giphy.com/media/DuJmk1yRUd1Di/giphy.gif?cid=ecf05e47ca1kxcf6e2r0hv3t6nz62xe5pc9bk2gsju7g08gx&ep=v1_gifs_search&rid=giphy.gif&ct=g) </h1>
 
-</p>
 
 <!--- INTRO HELLO --->
 <h1 align="center"> Hi 👋, I'm Verònica Vidal</h1>
