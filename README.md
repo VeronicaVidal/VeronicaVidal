@@ -55,7 +55,7 @@
     <a href="https://github.com/VeronicaVidal/VeronicaVidal" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/VeronicaVidal/VeronicaVidal?label=profile%20updated&style=flat-square"></a>
 </p>
 
-<!--- GitHub Stats --->
+<!--- GitHub Stats 
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
@@ -63,7 +63,7 @@
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaVidal&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
-</details>
+</details> --->
 
 
 <!--- Language and Tools --->
