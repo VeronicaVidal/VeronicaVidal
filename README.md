@@ -4,7 +4,9 @@
 <p align="center"> 
 <br> 
     
-![](under-construction.gif) <br>
+![](under-construction.gif) 
+
+<br>
 
 <!--- INTRO HELLO --->
 <h1 align="center"> Hi 👋, I'm Verònica Vidal</h1>
@@ -83,4 +85,6 @@
 
 <p align="center"> <br> 
     
-![](under-construction.gif) <br>
+![](under-construction.gif) 
+
+<br>
