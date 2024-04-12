@@ -5,9 +5,7 @@
 <!--- GitHub --->
 <p align="center">
     <a href="https://github.com/VeronicaVidal" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@VeronicaVidal-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-
-<!--- LinkedIn --->
-   <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 <!--- ResearchGate --->
     <a href="https://www.researchgate.net/profile/Alwin_Wang" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
 
