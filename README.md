@@ -1,16 +1,16 @@
-<h1 align="center"> 
+#<h1 align="center"> 
     
-![Clouds](VeronicaVidal.gif)
+#![Clouds](VeronicaVidal.gif)
 
-</h1>
+#</h1>
 
 
 <!--- INTRO HELLO --->
 <h1 align="center"> Hi 👋, I'm Verònica Vidal</h1>
-<h3 align="center"> An Atmospheric Physicist & Computer Scientist from Catalonia </h3>
+<h3 align="center"> An Atmospheric Physicist & High Performance Computing Scientist from Catalonia </h3>
 
 <!--- Email --->
-<!---- 📫 How to reach me **vvcanedo@gmail.com**--->
+<!---- 📫 How to reach me **vidalcanedov@gmail.com**--->
 
 <!--- LinkedIn --->
 <!----<h3 align="left">Connect with me:</h3>
