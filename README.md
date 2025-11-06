@@ -29,7 +29,7 @@
     <a href="https://github.com/alwinw?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
     <a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
     <a href="https://github.com/alwinw?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a></p> --->
+    <a href="https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a> </p> --->
 
 <!--- Botons de Seguidors, visites i hits 
 <p align="center">
