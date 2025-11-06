@@ -18,7 +18,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/vvidalcanedo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a> <!--- LinkedIn --->
     <a href="https://orcid.org/0000-0002-5235-0112" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a><!--- ORCID --->
-    <a href="https://github.com/VeronicaVidal/VeronicaVidal" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/VeronicaVidal/VeronicaVidal?label=profile%20updated&style=flat-square"> </a> <!--- Github --->
+    <a href="https://github.com/VeronicaVidal/VeronicaVidal" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/VeronicaVidal/VeronicaVidal?label=profile%20updated&style=flat-square"></a> <!--- Github --->
 </p> 
 
 <!--- GitHub Repositoris 
