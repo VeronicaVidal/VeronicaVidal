@@ -24,7 +24,7 @@
     <a href="https://github.com/VeronicaVidal" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@VeronicaVidal-181717?style=flat-square&logo=GitHub&logoColor=white"></a> <!--- GitHub --->
     <a href="https://www.linkedin.com/in/vvidalcanedo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a> <!--- LinkedIn --->
    <!---  <a href="https://www.researchgate.net/profile/Veronica-Vidal-2" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a> ----- ResearchGate --->
-    <a href="https://orcid.org/0000-0002-5235-0112" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a> <!--- ORCID --->
+    <a href="https://orcid.org/0000-0002-5235-0112" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"> </a> <!--- ORCID --->
     <!--- <a href="https://stackoverflow.com/users/11480791/VVidal" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>  Stackoverflow --->
      <!--- <a href="https://meta.stackexchange.com/users/1496131/ver%c3%b2nica-vidal" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
 </p> ---- StackExchange --->
@@ -43,9 +43,9 @@
 <!--- Botons de Seguidors, visites i hits 
 <p align="center">
     <a href="https://github.com/VeronicaVidal?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/VeronicaVidal" target="_blank"><img alt="VeronicaVidal" src="https://badges.pufler.dev/visits/VeronicaVidal/VeronicaVidal?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/VeronicaVidal" target="_blank"><img alt="VeronicaVidal" src="https://badges.pufler.dev/visits/VeronicaVidal/VeronicaVidal?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/> </a>
     <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
-    <a href="https://github.com/VeronicaVidal/VeronicaVidal" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/VeronicaVidal/VeronicaVidal?label=profile%20updated&style=flat-square"></a> </p> --->
+    <a href="https://github.com/VeronicaVidal/VeronicaVidal" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/VeronicaVidal/VeronicaVidal?label=profile%20updated&style=flat-square"> </a> </p> --->
 
 <!--- GitHub Stats 
 <details>
