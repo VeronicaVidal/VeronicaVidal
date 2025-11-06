@@ -1,8 +1,8 @@
-#<h1 align="center"> 
+<!---<h1 align="center"> 
     
-#![Clouds](VeronicaVidal.gif)
+![Clouds](VeronicaVidal.gif)
 
-#</h1>
+</h1>--->
 
 
 <!--- INTRO HELLO --->
